@@ -1,16 +1,3 @@
 [
-	"stealingimagination1",
-    "emilcarevskiy2006",
-    "yasrib",
-    "lIlID_AIlIl00O8I21IX",
-    "mrmcbaconflakes",
-    "iloveprisonlifehax",
-    "The_undertaledog2nd",
-    "Dina_ress",
-    "Hacke123rrrr",
-    "q00lking",
-    "bobhuntingskids",
-    "peasooterv2",
-    "bitdancerfan1012e21",
-    "carffoiu"
+	"stealingimagination1"
 ]
