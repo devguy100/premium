@@ -1,6 +1,6 @@
 [
-	"stealingimagination1",
-        "emilcarevskiy2006",
-        "peryrr614", //gamingplaza
-        "mrmcbaconflakes" //mrmcbaconflakes 
+  "stealingimagination1",
+  "emilcarevskiy2006",
+  "peryrr614",
+  "mrmcbaconflakes"
 ]
