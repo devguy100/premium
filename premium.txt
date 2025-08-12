@@ -9,5 +9,6 @@
   "The_undertaledog2nd",
   "q00lking",
   "yasrib",
-  "imsmelldada"
+  "imsmelldada",
+  "Shadowgotbannedtwice"
 ]
