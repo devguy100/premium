@@ -10,5 +10,6 @@
   "q00lking",
   "yasrib",
   "imsmelldada",
-  "Shadowgotbannedtwice"
+  "Shadowgotbannedtwice",
+  "well_comix"
 ]
