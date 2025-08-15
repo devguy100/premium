@@ -12,5 +12,5 @@
   "imsmelldada",
   "Shadowgotbannedtwice",
   "well_comix",
-  "vlaair"
+  "Vlaair"
 ]
