@@ -17,5 +17,6 @@
   "Hearts4mileii",
   "TheOGantiCheat",
   "Snow_xenoexecutor",
-  "Findandcall1"
+  "Findandcall1",
+  "dequanboss2"
 ]
