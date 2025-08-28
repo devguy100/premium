@@ -15,5 +15,6 @@
   "Vlaair",
   "x_emh",
   "Hearts4mileii",
-  "TheOGantiCheat"
+  "TheOGantiCheat",
+  "Snow_xenoexecutor"
 ]
